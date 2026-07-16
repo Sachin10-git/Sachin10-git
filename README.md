@@ -115,7 +115,7 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 
 **AI / DB**
 <br/>
-<img src="https://skillicons.dev/icons?i=gemini,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 **Dev Tools**
 <br/>
@@ -160,5 +160,3 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
-
-</div>
