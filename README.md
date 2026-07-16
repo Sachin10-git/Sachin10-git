@@ -49,7 +49,7 @@ const sachin = {
     "Smart Public Grievance Intelligence Platform",
     "Code Ground – AI Powered Pair Programming Platform"
   ],
-  certifications: [],
+  certifications: ["Google Cloud Computing Foundations", "SAP Certified - SAP Build Developer", "IBM Cloud Long-Term Virtual Internship – Generative AI"],
   status: "Learning, building, and shipping AI-powered products",
   openTo: ["Full-Time Roles", "Internships", "Collaborations", "Open Source"]
 };
