@@ -67,8 +67,10 @@ const sachin = {
 
 Architected and developed a full-stack grievance platform using the MERN stack, integrating GenAI, RAG, and Vector Search for intelligent complaint analysis and contextual retrieval.
 
-<div align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sachin10-git&repo=public-grievance-intelligence&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart Public Grievance Intelligence Platform"/>
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/public-grievance-intelligence)
+
 </div>
 
 | Layer | Technology |
@@ -79,16 +81,16 @@ Architected and developed a full-stack grievance platform using the MERN stack, 
 | Database | MongoDB Atlas, Vector Embeddings Storage |
 | Tools | Mongoose, Multer, Nodemailer |
 
-🔗 [Code](https://github.com/Sachin10-git/public-grievance-intelligence)
-
 <br/>
 
 ### 💻 Code Ground – AI Powered Pair Programming Platform
 
 Designed and developed an AI-powered collaborative coding platform featuring real-time pair programming, intelligent code assistance, AI-driven code suggestions, and automated code optimization.
 
-<div align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sachin10-git&repo=code-ground-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Code Ground"/>
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/code-ground-main)
+
 </div>
 
 | Layer | Technology |
@@ -98,8 +100,6 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 | AI Layer | Google Gemini API, Groq API, LLMs, Agentic AI, Prompt Engineering |
 | Database | MongoDB Atlas, SQL |
 | Tools | Git/GitHub, VS Code |
-
-🔗 [Code](https://github.com/Sachin10-git/code-ground-main)
 
 <br/>
 
