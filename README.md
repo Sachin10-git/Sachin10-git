@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8E23,100:556B2F&height=220&section=header&text=Sachin%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:4D7C0F&height=220&section=header&text=Sachin%20S&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20Student%20And%20AI%20ML%20Enthusiast&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://github.com/Sachin10-git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B8E23&center=true&vCenter=true&width=700&lines=Building+with+LLMs+%2B+Agentic+AI;Full-Stack+Developer+(MERN)+%2B+GenAI;RAG+%7C+Vector+Search+%7C+Semantic+Search;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=84CC16&center=true&vCenter=true&width=700&lines=Building+with+LLMs+%2B+Agentic+AI;Full-Stack+Developer+(MERN)+%2B+GenAI;RAG+%7C+Vector+Search+%7C+Semantic+Search;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-6B8E23?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-84CC16?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=black)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sachin10-git&color=6B8E23&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sachin10-git?style=for-the-badge&color=6B8E23&labelColor=black&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sachin10-git&color=84CC16&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Sachin10-git?style=for-the-badge&color=84CC16&labelColor=black&label=FOLLOWERS)
 
 </div>
 
@@ -69,7 +69,7 @@ Architected and developed a full-stack grievance platform using the MERN stack, 
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View%20Repository-6B8E23?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/public-grievance-intelligence)
+[![Repository](https://img.shields.io/badge/View%20Repository-84CC16?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/public-grievance-intelligence)
 
 </div>
 
@@ -89,7 +89,7 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/View%20Repository-6B8E23?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/code-ground-main)
+[![Repository](https://img.shields.io/badge/View%20Repository-84CC16?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git/code-ground-main)
 
 </div>
 
@@ -131,10 +131,10 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachin10-git&show_icons=true&theme=merko&border_color=6B8E23&title_color=6B8E23&text_color=c9d1d9&icon_color=6B8E23&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sachin10-git&layout=compact&theme=merko&border_color=6B8E23&title_color=6B8E23&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachin10-git&show_icons=true&theme=tokyonight&border_color=65A30D&title_color=84CC16&text_color=c9d1d9&icon_color=84CC16&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sachin10-git&layout=compact&theme=tokyonight&border_color=65A30D&title_color=84CC16&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=Sachin10-git&theme=merko&border=6B8E23&background=0D1117&stroke=6B8E23&ring=6B8E23&fire=6B8E23&currStreakLabel=6B8E23"/>
+<img src="https://streak-stats.demolab.com?user=Sachin10-git&theme=dark&border=65A30D&background=0D1117&stroke=65A30D&ring=84CC16&fire=84CC16&currStreakLabel=84CC16"/>
 
 </div>
 
@@ -147,7 +147,7 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin10-git&theme=github-dark&color=6B8E23&line=6B8E23&point=8FBC8F&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin10-git&theme=github-dark&color=84CC16&line=84CC16&point=BEF264&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -164,9 +164,9 @@ I'm always open to discussing **AI/ML**, **Generative AI**, **Full-Stack Develop
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-6B8E23?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/sachin-s10/)
-[![Gmail](https://img.shields.io/badge/Gmail-6B8E23?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=sachins210194@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-84CC16?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-84CC16?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/sachin-s10/)
+[![Gmail](https://img.shields.io/badge/Gmail-84CC16?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=sachins210194@gmail.com)
 
 <br>
 
@@ -184,4 +184,4 @@ I'm always open to discussing **AI/ML**, **Generative AI**, **Full-Stack Develop
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:6B8E23&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D7C0F,100:84CC16&height=120&section=footer"/>
