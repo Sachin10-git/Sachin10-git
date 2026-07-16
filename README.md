@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:4D7C0F&height=220&section=header&text=Sachin%20S&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Final%20Year%20Student%20And%20AI%20ML%20Enthusiast&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://github.com/Sachin10-git">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=84CC16&center=true&vCenter=true&width=700&lines=Building+with+LLMs+%2B+Agentic+AI;Full-Stack+Developer+(MERN)+%2B+GenAI;RAG+%7C+Vector+Search+%7C+Semantic+Search;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=84CC16&center=true&vCenter=true&width=700&lines=Building+AI+That+Solves+Real+Problems;Full-Stack+Developer+%E2%80%A2+MERN+%E2%80%A2+FastAPI;LLMs+%E2%80%A2+RAG+%E2%80%A2+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>
 
 <br/>
