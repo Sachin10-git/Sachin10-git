@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Sachin%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS/Engineering%20Student%20%7C%20AI%2FML%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Sachin%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Enthusiast&descAlignY=55&descSize=18" width="90%"/>
 
 <a href="https://github.com/Sachin10-git">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+with+LLMs+%2B+Agentic+AI;Full-Stack+Developer+(MERN)+%2B+GenAI;RAG+%7C+Vector+Search+%7C+Semantic+Search;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
@@ -127,8 +127,8 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin10-git&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin10-git&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachin10-git&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sachin10-git&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
 
 <img src="https://streak-stats.demolab.com?user=Sachin10-git&theme=nord&border=7dd3fc&background=0D1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
 
@@ -137,7 +137,7 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sachin10-git&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy-eight.vercel.app/?username=Sachin10-git&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </div>
 
 ### 📈 Contribution Activity
@@ -152,11 +152,32 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 
 <div align="center">
 
+### 💬 Let's Build Something Meaningful Together
+
+<br/>
+
+I'm always open to discussing **AI/ML**, **Generative AI**, **Full-Stack Development**, **Open Source**, and exciting opportunities.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/sachin-s10/)
-[![Gmail](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:sachins210194@gmail.com)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:sachins210194@gmail.com)
+
+<br>
+
+**Building intelligent software, one project at a time.**
+
+<br/>
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
+<br/>
+
+*Thanks for visiting my profile!*
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer"/>
