@@ -49,7 +49,11 @@ const sachin = {
     "Smart Public Grievance Intelligence Platform",
     "Code Ground – AI Powered Pair Programming Platform"
   ],
-  certifications: ["Google Cloud Computing Foundations", "SAP Certified - SAP Build Developer", "IBM Cloud Long-Term Virtual Internship – Generative AI"],
+  certifications: [
+    "Google Cloud Computing Foundations",
+    "SAP Certified - SAP Build Developer",
+    "IBM Cloud Long-Term Virtual Internship – Generative AI"
+  ],
   status: "Learning, building, and shipping AI-powered products",
   openTo: ["Full-Time Roles", "Internships", "Collaborations", "Open Source"]
 };
@@ -64,7 +68,7 @@ const sachin = {
 Architected and developed a full-stack grievance platform using the MERN stack, integrating GenAI, RAG, and Vector Search for intelligent complaint analysis and contextual retrieval.
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=public-grievance-intelligence&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart Public Grievance Intelligence Platform"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sachin10-git&repo=public-grievance-intelligence&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart Public Grievance Intelligence Platform"/>
 </div>
 
 | Layer | Technology |
@@ -84,7 +88,7 @@ Architected and developed a full-stack grievance platform using the MERN stack, 
 Designed and developed an AI-powered collaborative coding platform featuring real-time pair programming, intelligent code assistance, AI-driven code suggestions, and automated code optimization.
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=code-ground-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Code Ground"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sachin10-git&repo=code-ground-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Code Ground"/>
 </div>
 
 | Layer | Technology |
