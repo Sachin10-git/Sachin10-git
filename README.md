@@ -162,7 +162,7 @@ I'm always open to discussing **AI/ML**, **Generative AI**, **Full-Stack Develop
 
 [![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=black)](https://github.com/Sachin10-git)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/sachin-s10/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:sachins210194@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](https://mail.google.com/mail/view=cm&fs=1&to=sachins210194@gmail.com)
 
 <br>
 
