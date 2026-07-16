@@ -64,7 +64,7 @@ const sachin = {
 Architected and developed a full-stack grievance platform using the MERN stack, integrating GenAI, RAG, and Vector Search for intelligent complaint analysis and contextual retrieval.
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=Smart-Public-Grievance-Intelligence-Platform&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart Public Grievance Intelligence Platform"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=public-grievance-intelligence&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart Public Grievance Intelligence Platform"/>
 </div>
 
 | Layer | Technology |
@@ -75,7 +75,7 @@ Architected and developed a full-stack grievance platform using the MERN stack, 
 | Database | MongoDB Atlas, Vector Embeddings Storage |
 | Tools | Mongoose, Multer, Nodemailer |
 
-🔗 [Code](https://github.com/Sachin10-git/Smart-Public-Grievance-Intelligence-Platform)
+🔗 [Code](https://github.com/Sachin10-git/public-grievance-intelligence)
 
 <br/>
 
@@ -84,7 +84,7 @@ Architected and developed a full-stack grievance platform using the MERN stack, 
 Designed and developed an AI-powered collaborative coding platform featuring real-time pair programming, intelligent code assistance, AI-driven code suggestions, and automated code optimization.
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=Code-Ground&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Code Ground"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin10-git&repo=code-ground-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Code Ground"/>
 </div>
 
 | Layer | Technology |
@@ -95,7 +95,7 @@ Designed and developed an AI-powered collaborative coding platform featuring rea
 | Database | MongoDB Atlas, SQL |
 | Tools | Git/GitHub, VS Code |
 
-🔗 [Code](https://github.com/Sachin10-git/Code-Ground)
+🔗 [Code](https://github.com/Sachin10-git/code-ground-main)
 
 <br/>
 
