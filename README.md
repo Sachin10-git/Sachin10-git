@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Sachin%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Enthusiast&descAlignY=55&descSize=18" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Sachin%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Sachin10-git">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+with+LLMs+%2B+Agentic+AI;Full-Stack+Developer+(MERN)+%2B+GenAI;RAG+%7C+Vector+Search+%7C+Semantic+Search;Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
